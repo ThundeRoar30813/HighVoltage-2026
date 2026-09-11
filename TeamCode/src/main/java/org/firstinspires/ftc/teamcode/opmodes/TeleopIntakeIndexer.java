@@ -73,7 +73,7 @@ public class TeleopIntakeIndexer extends OpMode {
         // IMPORTANTE:
         // PASAMOS hardwareMap
         //
-        // ShooterCmd buscará internamente:
+        // ShooterCmd buscará internamente: pruebas
         //
         // Servo.class, "cap"
         // =====================================================
